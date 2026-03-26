@@ -1,5 +1,7 @@
 # china-hot-ranks-local
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Version](https://img.shields.io/badge/version-v0.1.0-blue.svg)
+
 一个本地可运行的中国热榜聚合仓库，当前稳定支持：
 
 - GitHub Trending
